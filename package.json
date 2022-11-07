@@ -11,6 +11,7 @@
     "@next/font": "^13.0.2",
     "@vercel/og": "^0.0.20",
     "next": "latest",
+    "next-auth": "^4.16.3",
     "react": "latest",
     "react-dom": "latest"
   },
